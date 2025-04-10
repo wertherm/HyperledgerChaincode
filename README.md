@@ -4,14 +4,6 @@ Este é um projeto **boilerplate de Chaincode em Go**, desenvolvido para aplica�
 
 ---
 
-## Objetivos do Projeto
-
-- Criar um modelo reutilizável de **Smart Contract em Go**
-- Facilitar testes locais com **docker-compose** em modo Dev
-- Fornecer um ponto de partida para projetos reais com **Hyperledger Fabric 2.x**
-
----
-
 ## Tecnologias Utilizadas
 
 - **Go (Golang)** — Linguagem principal para o chaincode
